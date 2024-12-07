@@ -35,7 +35,7 @@ This application provides an intuitive interface for processing CSV files, allow
 ### 6. **Database Checking:**
 - Can check the database for missing values using the `check_database.py` script to ensure that they were properly removed.
 
-## How to Work
+## How to Run
 
 1. **Start the API (FastAPI Backend):**
    - Run the following command to start the backend API:
